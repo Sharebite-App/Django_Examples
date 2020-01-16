@@ -1,3 +1,4 @@
+Folder Drop demo_serializers into sharebite/api/v1/
 
 Add this to INSTALLED_APPS in settings.py
 
